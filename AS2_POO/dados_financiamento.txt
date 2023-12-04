@@ -1,0 +1,37 @@
+-------------------------
+Tipo de financiamento:  Casa
+Valor do imóvel:        R$ 500.000,00
+Valor do Financiamento: R$ 580.833,33
+Valor da Taxa de Juros: 2.0%
+Prazo de Financiamento: 25 Anos
+Área Total:             1.500 m²
+Área Construída:        1.000 m²
+Desconto por parcela:   R$ 100,00
+-------------------------
+-------------------------
+Tipo de financiamento:  Apartamento
+Valor do imóvel:        R$ 750.000,00
+Valor do Financiamento: R$ 1.185.520,83
+Valor da Taxa de Juros: 7.0%
+Prazo de Financiamento: 30 Anos
+Número de Garagens:     5
+Número de Andares:      10
+-------------------------
+-------------------------
+Tipo de financiamento:  Terreno
+Valor do imóvel:        R$ 950.000,00
+Valor do Financiamento: R$ 1.857.250,00
+Valor da Taxa de Juros: 11.0 %
+Prazo de Financiamento: 40 Anos
+Tipo de Zona: Rural
+-------------------------
+-------------------------
+Tipo de financiamento:  Casa
+Valor do imóvel:        R$ 150.000,00
+Valor do Financiamento: R$ 461.500,00
+Valor da Taxa de Juros: 25.0%
+Prazo de Financiamento: 10 Anos
+Área Total:             1.500 m²
+Área Construída:        200 m²
+Desconto por parcela:   R$ 100,00
+-------------------------
